@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647415685599",
+    "project_id": "paradoxgolf-ec596",
+    "storage_bucket": "paradoxgolf-ec596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647415685599:android:1ae753aa977ad8f3a3246a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjXR91kqUjJL41RzB9ik_uDBcCQQP0XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
