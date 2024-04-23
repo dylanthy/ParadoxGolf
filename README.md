@@ -1,0 +1,1 @@
+This is my game I made for Hofstra's Mobile Device Programming class. This build is made for PC though. There are some errors, mainly with ball velocity that make it unplayable but it was worth a shot.
